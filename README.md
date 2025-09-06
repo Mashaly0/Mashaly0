@@ -10,7 +10,7 @@
 
 ###
 
-<h5 align="left">, an ambitious Full Stack Developer with a strong interest in .NET and Angular technologies, eager to learn and grow within the industry. Proficient in C#, AS</h5>
+<h5 align="left"> an ambitious Full Stack Developer with a strong interest in .NET and Angular technologies, eager to learn and grow within the industry. Proficient in C#, AS</h5>
 
 ###
 
