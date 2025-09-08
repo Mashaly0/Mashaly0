@@ -2,7 +2,7 @@
 
 ###
 
-<h4 align="center">My name is Abdullah and I'm a Full Stack Developer</h4>
+<h3 align="center">My name is Abdullah and I'm a Full Stack Developer</h3>
 
 ###
 
@@ -10,7 +10,7 @@
 
 ###
 
-<h5 align="center">, an ambitious Full Stack Developer with a strong interest in .NET and Angular technologies, eager to learn and grow within the industry. Proficient in C#, AS</h5>
+<h4 align="center">, an ambitious Full Stack Developer with a strong interest in .NET and Angular technologies, eager to learn and grow within the industry. Proficient in C#, AS</h4>
 
 ###
 
